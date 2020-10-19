@@ -9,7 +9,7 @@ You should be familiar with the contents of these videos prior to starting the p
 
 Please watch this video from one of our instructors to complete the following steps:
 
-**[Vets in Tech Pre-Course Tutoiral](https://youtu.be/CQi9lYXStk8)**
+**[Vets in Tech Pre-Course Tutorial](https://youtu.be/CQi9lYXStk8)**
 
 1. Fork this repository (You should be redirected to YOUR forked version of this repository)
 2. Click the clone button (on YOUR github handles repo)
